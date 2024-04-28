@@ -28,16 +28,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set up resources in Azure; Create domain controller VM, Set domain controllers NIC privage IP address to be static, Create Client VM (Windows 10).
 </p>
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ensure Connectivity between client and domain controller with ping. 
 </p>
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install Active Directory.
+</p>
+<br />
+
+<p>
+Create admin and normal user account in AD; Create an Organizational Unit, Create new employee, Add empoloyee to account admin.
+</p>
+<br />
+
+<p>
+Create a bunch of additional users; Observed the new accounts, attempted logging in as new users. 
 </p>
 <br />
