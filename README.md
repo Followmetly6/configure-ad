@@ -28,26 +28,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 <p>
-Set up resources in Azure; Create domain controller VM, Set domain controllers NIC privage IP address to be static, Create Client VM (Windows 10).
+- Set up resources in Azure; Create domain controller VM, Set domain controllers NIC privage IP address to be static, Create Client VM (Windows 10).
 </p>
 <br />
 
 <p>
-Ensure Connectivity between client and domain controller with ping. 
+- Ensure Connectivity between client and domain controller with ping. 
 </p>
 <br />
 
 <p>
-Install Active Directory.
+- Install Active Directory.
 </p>
 <br />
 
 <p>
-Create admin and normal user account in AD; Create an Organizational Unit, Create new employee, Add empoloyee to account admin.
+- Create admin and normal user account in AD; Create an Organizational Unit, Create new employee, Add empoloyee to account admin.
 </p>
 <br />
 
 <p>
-Create a bunch of additional users; Observed the new accounts, attempted logging in as new users. 
+- Create a bunch of additional users; Observed the new accounts, attempted logging in as new users. 
 </p>
 <br />
