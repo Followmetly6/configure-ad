@@ -20,10 +20,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Installed and configure Active Directory Domain Services (promoted new domain)
+- Setup file and folder shares and assigned permissions
+- Used PowerShell to automate the creation of thousands of users
 
 <h2>Deployment and Configuration Steps</h2>
 
